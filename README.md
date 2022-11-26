@@ -1,11 +1,12 @@
+<div align="center">
+    <h2>Song Request Api</h2>
+    <img src="https://github.com/danmugh/rocket-song-api/actions/workflows/rust.yml/badge.svg" alt="Workflow status badge">
+</div>
+
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/mbvisti/awesome-blog">
     <img src="https://raw.githubusercontent.com/nabijaczleweli/termimage/master/assets/rust-logo-truecolor.png" alt="Logo" width="80" height="80">
-  </a>
-
-<h3 align="center">Song Request Api</h3>
 </div>
 
 ## About The Project
@@ -43,3 +44,12 @@ If you have a suggestion that would make this better, please fork the repo and c
 ## Contact
 
 Dan Mugh - [@danmugh](https://twitter.com/danmugh) - [contact@danmugh](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=+contact@danmugh.com)
+
+## License
+
+Licensed under :
+
+* Apache License, Version 2.0
+  ([LICENSE-APACHE](LICENSE-APACHE) or http://www.apache.org/licenses/LICENSE-2.0)
+* MIT license
+  ([LICENSE-MIT](LICENSE-MIT) or http://opensource.org/licenses/MIT)
