@@ -19,6 +19,7 @@
 * [Technologies](#technologies)
 * [Setup](#getting-started)
 * [Contributing](#contributing)
+* [License](#license)
 * [Contact](#contact)
 
 ## Technologies
@@ -41,10 +42,6 @@ If you have a suggestion that would make this better, please fork the repo and c
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## Contact
-
-Dan Mugh - [@danmugh](https://twitter.com/danmugh) - [contact@danmugh](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=+contact@danmugh.com)
-
 ## License
 
 Licensed under :
@@ -53,3 +50,8 @@ Licensed under :
   ([LICENSE-APACHE](LICENSE-APACHE) or http://www.apache.org/licenses/LICENSE-2.0)
 * MIT license
   ([LICENSE-MIT](LICENSE-MIT) or http://opensource.org/licenses/MIT)
+
+## Contact
+
+Dan Mugh - [@danmugh](https://twitter.com/danmugh) - [contact@danmugh](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=+contact@danmugh.com)
+
