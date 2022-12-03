@@ -11,7 +11,10 @@
 
 ## About The Project
 
-#### A RESTful song request API using Rocket
+#### A song request system allows the viewer to add a song to a song queue. When the song reaches the front of the queue, the song is played over the live stream.
+
+#### With the help of the Rocket crate, creating an API for a song request system in Rust.
+
 
 > Feel free to open a PR or file an issue if you should notice any bugs/errors or just have spotted some improvements!
 
